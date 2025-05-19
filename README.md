@@ -45,7 +45,7 @@ git log --oneline
 Ссылка на github
 https://github.com/
 
-Показать ветку
+Показать ветки
 git branch
 
 Сделать главной ветку main
@@ -59,3 +59,14 @@ git push -u origin main
 
 Склонировать репозиторий
 git clone https://github.com/Stanislav-Wise/testsite.git
+
+Скачать с github
+git pull
+
+Создать новую ветку new2
+git branch new2
+
+Переключиться на ветку new2
+git checkout new2
+или
+git switch new2   - более новый способ
