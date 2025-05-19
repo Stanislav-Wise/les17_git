@@ -21,3 +21,10 @@ git init
 
 Проверка статуса
 git status
+
+Добавили файл для отслеживания
+git add ./README.md
+
+Сделали коммит
+git commit -m "Добавлен README"
+
