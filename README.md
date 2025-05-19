@@ -25,6 +25,9 @@ git status
 Добавили файл для отслеживания
 git add ./README.md
 
+Добавить все файлы для отслеживания
+git add .
+
 Сделали коммит
 git commit -m "Добавлен README"
 
