@@ -31,3 +31,31 @@ git add .
 Сделали коммит
 git commit -m "Добавлен README"
 
+
+Добавить и сделать коммит
+git commit -am "Обновлены файлы"
+
+Посмотреть историю
+git log
+
+Посмотреть историю в одну строку
+git log --oneline
+
+
+Ссылка на github
+https://github.com/
+
+Показать ветку
+git branch
+
+Сделать главной ветку main
+git branch -M main
+
+Добавили удаленный репозиторий 
+git remote add origin https://github.com/Stanislav-Wise/les17_git.git
+
+Отправили в удлаенный репозиторий
+git push -u origin main
+
+Склонировать репозиторий
+git clone https://github.com/Stanislav-Wise/testsite.git
