@@ -59,3 +59,5 @@ git push -u origin main
 
 Склонировать репозиторий
 git clone https://github.com/Stanislav-Wise/testsite.git
+
+git merge new2
