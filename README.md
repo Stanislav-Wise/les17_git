@@ -66,6 +66,9 @@ git pull
 Создать новую ветку new2
 git branch new2
 
+Удалить ветку new
+git branch -d new
+
 Переключиться на ветку new2
 git checkout new2
 или
