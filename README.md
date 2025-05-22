@@ -78,4 +78,5 @@ git switch new2   - более новый способ
 git checkout хэш_коммита
 
 Делаем слияние ветки new  в текущую ветку
-git merge new
+git merge new2
+
