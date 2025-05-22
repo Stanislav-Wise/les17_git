@@ -70,3 +70,6 @@ git branch new2
 git checkout new2
 или
 git switch new2   - более новый способ
+
+Переключиться на коммит
+git checkout хэш_коммита
